@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Augmentin 625 Duo Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis"
+  },
+  {
+    "name": "Azithral 500 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Abdominal pain Diarrhea"
+  },
+  {
+    "name": "Aciloc 150 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Headache Diarrhea Gastrointestinal disturbance"
+  },
+  {
+    "name": "Allegra 120mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+    "side_effects": "Headache Drowsiness Dizziness Nausea"
+  },
+  {
+    "name": "Avil 25 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+    "side_effects": "Sedation"
+  },
+  {
+    "name": "Aricep 5 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Alzheimer's disease",
+    "side_effects": "Common cold Urinary incontinence Rash Nausea Diarrhea Insomnia difficulty in sleeping Weight loss Accidental injury"
+  },
+  {
+    "name": "Amoxyclav 625 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis"
+  },
+  {
+    "name": "Atarax 25mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+    "side_effects": "Sedation Nausea Vomiting Upset stomach Constipation"
+  },
+  {
+    "name": "Azee 500 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Abdominal pain Diarrhea"
+  },
+  {
+    "name": "Allegra-M Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Sneezing and runny nose due to allergies",
+    "side_effects": "Nausea Diarrhea Vomiting Skin rash Flu like symptoms Headache Drowsiness Dizziness"
+  },
+  {
+    "name": "Armotraz Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Breast cancer",
+    "side_effects": "Hot flashes Nausea Osteoporosis Skin rash Weakness"
+  },
+  {
+    "name": "Albendazole 400mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Parasitic infections",
+    "side_effects": "Vomiting Dizziness Increased liver enzymes Nausea Loss of appetite"
+  },
+  {
+    "name": "Arkamin Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Hypertension (high blood pressure)",
+    "side_effects": "Dryness in mouth Fatigue Dizziness Headache Nausea Sleepiness Insomnia difficulty in sleeping"
+  },
+  {
+    "name": "Allegra 180mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+    "side_effects": "Headache Drowsiness Dizziness Nausea"
+  },
+  {
+    "name": "Atarax 10mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+    "side_effects": "Sedation Nausea Vomiting Upset stomach Constipation"
+  },
+  {
+    "name": "Aldigesic-SP Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Pain relief",
+    "side_effects": "Nausea Vomiting Stomach pain Indigestion Heartburn Loss of appetite Diarrhea"
+  },
+  {
+    "name": "Aldactone Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Hypertension (high blood pressure) Edema Low potassium Heart failure",
+    "side_effects": "Nausea Vomiting Leg cramps Dizziness Drowsiness Confusion Breast enlargement in male Increased creatinine level in blood"
+  },
+  {
+    "name": "Aricep 10 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Alzheimer's disease",
+    "side_effects": "Common cold Urinary incontinence Rash Nausea Diarrhea Insomnia difficulty in sleeping Weight loss Accidental injury"
+  },
+  {
+    "name": "Aricep-M  Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Alzheimer's disease",
+    "side_effects": "Nausea Vomiting Loss of appetite Diarrhea Headache Dizziness Bleeding under the skin"
+  },
+  {
+    "name": "Anafortan 25 mg/300 mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Abdominal pain",
+    "side_effects": "Dryness in mouth Constipation Blurred vision Increased heart rate"
+  },
+  {
+    "name": "Aceclo Plus Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Pain relief",
+    "side_effects": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea"
+  },
+  {
+    "name": "Althrocin 500 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Abdominal pain Diarrhea"
+  },
+  {
+    "name": "Axcer  90mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Prevention of heart attack and stroke",
+    "side_effects": "Bleeding Breathlessness"
+  },
+  {
+    "name": "Alfoo 10mg Tablet PR",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Benign prostatic hyperplasia",
+    "side_effects": "Upper respiratory tract infection Dizziness Headache Nausea Abdominal pain Impotence"
+  },
+  {
+    "name": "Acemiz Plus Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " Pain relief",
+    "side_effects": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea"
+  },
+  {
+    "name": "Azicip 500 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Abdominal pain Diarrhea"
+  },
+  {
+    "name": "AF Kit Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Syndromic treatment of vaginal discharge",
+    "side_effects": "Taste change Vomiting Headache Dizziness Stomach pain Nausea Indigestion Diarrhea Loss of appetite"
+  },
+  {
+    "name": "Amitone 10mg Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Depression Neuropathic painTreatment of Migraine",
+    "side_effects": "Constipation Dryness in mouth Orthostatic hypotension sudden lowering of blood pressure on standing Weight gain Aggressive behavior Nasal congestion stuffy nose Sleepiness Dizziness Headache Decreased libido Nausea Fatigue Confusion Tremors Speech disorder Palpitations Taste change Paresthesia tingling or pricking sensation Abnormality of voluntary movements Loss of accommodation Atrioventricular block Micturition disorders Erectile dysfunction Abnormal E C G Decreased sodium level in blood"
+  },
+  {
+    "name": "AB-Flo-N Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Vomiting Heartburn Stomach pain Upset stomach Rash Hives Itching Breathing problems Nasal inflammation Increased white blood cell count"
+  },
+  {
+    "name": "Atorva 40 Tablet",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Tablet",
+    "stock": 100,
+    "uses": " High cholesterolPrevention of Heart attack",
+    "side_effects": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests"
+  },
+  {
+    "name": "Ascoril LS Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate"
+  },
+  {
+    "name": "Ascoril D Plus Syrup Sugar Free",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Nausea Vomiting Loss of appetite Headache"
+  },
+  {
+    "name": "Alex Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Nausea Vomiting Loss of appetite Headache"
+  },
+  {
+    "name": "Atarax Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+    "side_effects": "Sedation Nausea Vomiting Upset stomach Constipation"
+  },
+  {
+    "name": "Ambrodil-S Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Cough",
+    "side_effects": "Headache Palpitations Upset stomach Tremors Muscle cramp Allergic reaction Increased heart rate"
+  },
+  {
+    "name": "Asthakind-DX Syrup Sugar Free",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Nausea Vomiting Loss of appetite Headache"
+  },
+  {
+    "name": "Asthalin Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+    "side_effects": "Tremors Headache Palpitations Increased heart rate Muscle cramp Nervousness"
+  },
+  {
+    "name": "Alex Junior Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Upset stomach Sleepiness"
+  },
+  {
+    "name": "Ascoril LS Junior Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate"
+  },
+  {
+    "name": "Aptimust Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": " Appetite stimulant",
+    "side_effects": "Constipation Dryness in mouth Drowsiness Sleepiness Blurred vision"
+  },
+  {
+    "name": "Azee 200mg Dry Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Abdominal pain Diarrhea"
+  },
+  {
+    "name": "Ambrodil Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Respiratory tract disorders associated with viscid mucus",
+    "side_effects": "Vomiting Nausea Upset stomach"
+  },
+  {
+    "name": "Ascoril D Junior Cough Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Nausea Vomiting Loss of appetite Headache"
+  },
+  {
+    "name": "Alerid Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Allergic conditions",
+    "side_effects": "Nausea Muscle pain Edema swelling Sleepiness Fatigue Vomiting Dryness in mouth Headache Constipation"
+  },
+  {
+    "name": "Ambrodil-LX Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate"
+  },
+  {
+    "name": "Advent Forte 457mg Syrup Tangy Orange",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Resistant Tuberculosis (TB)Treatment of Bacterial infections",
+    "side_effects": "Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis"
+  },
+  {
+    "name": "Alkof DX Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Dry cough",
+    "side_effects": "Upset stomach Sleepiness"
+  },
+  {
+    "name": "Anafortan Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Abdominal pain",
+    "side_effects": "Dryness in mouth Constipation Blurred vision Increased heart rate"
+  },
+  {
+    "name": "Ambrodil-Plus RF Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": " Common cold",
+    "side_effects": "Nausea Stomach discomfort Sleepiness Insomnia difficulty in sleeping Headache Dizziness Nervousness Restlessness Allergic reaction"
+  },
+  {
+    "name": "Alkof Syrup",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Syrup/Tonic",
+    "stock": 100,
+    "uses": "Treatment of Cough with mucus",
+    "side_effects": "Nausea Diarrhea Bloating Indigestion Vomiting Stomach pain Sweating Dizziness Headache Skin rash Hives Tremors Increased heart rate"
+  },
+  {
+    "name": "Altraday Capsule SR",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": " Pain relief",
+    "side_effects": "Nausea Flatulence Indigestion Diarrhea Constipation"
+  },
+  {
+    "name": "Aquasol A Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Vitamin A deficiency",
+    "side_effects": "No common side effects seen"
+  },
+  {
+    "name": "Almox 500 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Diarrhea Skin rash Vomiting"
+  },
+  {
+    "name": "AB Phylline Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation"
+  },
+  {
+    "name": "Angispan - TR 2.5mg Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation"
+  },
+  {
+    "name": "Antiflu 75mg Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Influenza (flu)",
+    "side_effects": "Nausea Vomiting Abdominal pain Diarrhea"
+  },
+  {
+    "name": "AB-Flo Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+    "side_effects": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation"
+  },
+  {
+    "name": "Angiplat 2.5 Capsule TR",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Angina (heart-related chest pain)",
+    "side_effects": "Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation"
+  },
+  {
+    "name": "Almox 250 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Nausea Diarrhea Skin rash Vomiting"
+  },
+  {
+    "name": "Aztor Asp 75 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Prevention of heart attack and stroke",
+    "side_effects": "Abdominal pain Constipation Flatulence Increased liver enzymes Hepatitis viral infection of liver Reye s syndrome like symptoms"
+  },
+  {
+    "name": "Acutret 20 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Acne",
+    "side_effects": "Dry skin Increased liver enzymes Rash"
+  },
+  {
+    "name": "Atorfit CV 10 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": " Heart attack prevention and high cholesterol",
+    "side_effects": "Stomach pain Diarrhea Indigestion Constipation Headache Dizziness Muscle pain Weakness Increased glucose level in blood Increased liver enzymes"
+  },
+  {
+    "name": "AD 100mg Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Diarrhea",
+    "side_effects": "Vomiting Dizziness General discomfort Headache"
+  },
+  {
+    "name": "Acera-D Capsule SR",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Diarrhea Stomach pain Dryness in mouth Headache Dizziness Flatulence Weakness Flu like symptoms"
+  },
+  {
+    "name": "Atormac CV10 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": " Heart attack prevention and high cholesterol",
+    "side_effects": "Stomach pain Diarrhea Indigestion Constipation Headache Dizziness Muscle pain Weakness Increased glucose level in blood Increased liver enzymes"
+  },
+  {
+    "name": "Alphadol 0.25mcg Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Vitamin D deficiency",
+    "side_effects": "Rash Itching Abdominal pain Increased calcium level in blood Increased calcium in urine Increased phosphate level in blood"
+  },
+  {
+    "name": "Aprecap 125/80 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": " Nausea and vomiting due to chemotherapy",
+    "side_effects": "Constipation Indigestion Headache Tiredness Loss of appetite Hiccup Increased liver enzymes"
+  },
+  {
+    "name": "Acutret 10 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Treatment of Acne",
+    "side_effects": "Dry skin Increased liver enzymes Rash"
+  },
+  {
+    "name": "Anxipan Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": " Acidity Heartburn Anxiety",
+    "side_effects": "Nausea Diarrhea Constipation Stomach pain Flatulence Weight gain Sedation Difficulty in urination Orthostatic hypotension sudden lowering of blood pressure on standing Blurred vision Slow heart rate"
+  },
+  {
+    "name": "Aztogold 20 Capsule",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Capsule",
+    "stock": 100,
+    "uses": "Prevention of Heart attack",
+    "side_effects": "Increased bleeding tendency Abdominal pain Indigestion Bruise Nosebleeds Gastrointestinal bleeding Diarrhea"
+  },
+  {
+    "name": "Avastin 400mg Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": " Cancer of colon and rectum Non-small cell lung cancer Kidney cancer Brain tumor Ovarian cancer Cervical cancer",
+    "side_effects": "Rectal bleeding Taste change Headache Nosebleeds Back pain Dry skin High blood pressure Protein in urine Inflammation of the nose"
+  },
+  {
+    "name": "Arachitol 6L Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Vitamin D deficiencyTreatment of Osteoporosis",
+    "side_effects": "Injection site reactions pain swelling redness Weakness Muscle pain Metallic taste"
+  },
+  {
+    "name": "Avil Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+    "side_effects": "Sedation"
+  },
+  {
+    "name": "Avil Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+    "side_effects": "Sedation"
+  },
+  {
+    "name": "Augmentin 1.2gm Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Bacterial infections",
+    "side_effects": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis"
+  },
+  {
+    "name": "Anafortan Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": " Abdominal cramp",
+    "side_effects": "Palpitations Arrhythmia irregular heartbeats Increased heart rate Dry skin Excessive thirst Dryness in mouth Photophobia Reduce bronchial secretion Flushing sense of warmth in the face ears neck and trunk Dilatation of pupil Difficulty in urination Loss of accommodation Constipation"
+  },
+  {
+    "name": "Aciloc Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+    "side_effects": "Headache Diarrhea Gastrointestinal disturbance"
+  },
+  {
+    "name": "Aquaviron Injection 1ml",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Male hypogonadism",
+    "side_effects": "Injection site reactions pain swelling redness Acne Voice change Breast enlargement in male"
+  },
+  {
+    "name": "Anfoe 10000IU Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": "Treatment of Anemia due to chronic kidney diseaseTreatment of Anemia due to cancer chemotherapy",
+    "side_effects": "High blood pressure Nausea Vomiting Fever Rash Joint pain Headache Insomnia difficulty in sleeping Chills Cough Bone pain Muscle spasm Dizziness Vascular occlusion Injection site irritation Stomatitis Inflammation of the mouth Weight loss Decreased white blood cell count lymphocytes Increased glucose level in blood Blood clot in the blood vessels"
+  },
+  {
+    "name": "Amiject 500mg Injection",
+    "dosage": "As prescribed",
+    "frequency": "Once daily",
+    "duration": "5 days",
+    "category": "Injection",
+    "stock": 100,
+    "uses": " Bacterial infections",
+    "side_effects": "Increased blood urea Injection site reactions pain swelling redness"
+  }
+]

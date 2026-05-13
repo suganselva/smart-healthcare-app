@@ -1,0 +1,12 @@
+﻿db\base.py:10: error: Argument 1 to "declared_attr" has incompatible type "Callable[[Base], str]"; expected "Callable[..., Mapped[Never] | ORMDescriptor[Never] | SQLCoreOperations[Never]]"  [arg-type]
+models\record.py:8: error: Incompatible types in assignment (expression has type "str", base class "Base" defined the type as "Never")  [assignment]
+models\patient.py:7: error: Incompatible types in assignment (expression has type "str", base class "Base" defined the type as "Never")  [assignment]
+api\v1\patients.py:24: error: Unexpected keyword argument "first_name" for "Patient"  [call-arg]
+venv\Lib\site-packages\mypy\typeshed\stdlib\builtins.pyi: note: "Patient" defined here
+api\v1\patients.py:24: error: Unexpected keyword argument "last_name" for "Patient"  [call-arg]
+api\v1\patients.py:24: error: Unexpected keyword argument "date_of_birth" for "Patient"  [call-arg]
+api\v1\patients.py:24: error: Unexpected keyword argument "gender" for "Patient"  [call-arg]
+api\v1\patients.py:24: error: Unexpected keyword argument "contact_number" for "Patient"  [call-arg]
+api\v1\patients.py:24: error: Unexpected keyword argument "address" for "Patient"  [call-arg]
+main.py:10: error: "type[Base]" has no attribute "metadata"  [attr-defined]
+Found 10 errors in 5 files (checked 15 source files)
